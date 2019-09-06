@@ -9,9 +9,7 @@ You can clone the repository using the tool of your preference (Git, Github Desk
 
 Project zip with all files (including LFS files) can be downloaded from the release section https://github.com/Unity-Technologies/SmallOfficeRayTracing/releases.
 
-The Preview DXR project is a Unity custom version with binaries based on the 2019.2a5 version of Unity, enhanced with DXR support and version 5.8.0 of HDRP enhanced with DXR support. It is a Windows 10 (64 bit) only version with DX12 API.
-
-This project is a sandbox in which you can  play with real time ray tracing features in Unity. This is a prototype and the final implementation of DXR will be different from this version. This project can not be used to do any production work.
+This project is using the real-time ray tracing feature that has been experimentally released in Unity 2019.3.a2. We recommend using it with the HDRP package 7.1.1 (or higher). This project can not be used to do any production work. Please refer to the documentation for more details (Link will be posted here soon).
 
 Requirements:
 - NVIDIA RTX series card with the latest drivers [here](https://www.nvidia.com/Download/index.aspx?lang=com)
@@ -19,9 +17,9 @@ Requirements:
 
 
 Install step:
-Download the project from Github in the release section, unzip/Clone the project.
-Launch Unity.exe
-Create a new project and select DXR High Definition RP (Preview) - Be sure you are to create project for Unity 2019.2.0a5.
+- Clone the projectOR Download the project from Github in the release section and unzip it.
+- Launch Unity.exe
+- Create a new project and select DXR High Definition RP (Preview) - Be sure you are to create project for Unity 2019.2.0a5.
 
 See usage here: https://github.com/Unity-Technologies/Unity-Experimental-DXR/blob/master/documentation/The%20Experimental%20DXR%20project%20manual.pdf
 
