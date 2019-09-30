@@ -1,4 +1,4 @@
-# Unity preview DXR
+# Unity startup DXR project
 This repository contains a startup Unity Project that uses DXR. It allow to start with Unity HDRP DXR.
 
 You can clone the repository using tools like Git, Github Desktop, or Sourcetree. 
