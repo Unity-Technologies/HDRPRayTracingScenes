@@ -11,6 +11,8 @@ You can also download the Project zip, with every file (including the LFS files)
 
 This Project uses the real-time ray tracing feature that experimentally released in Unity 2019.3b1. Use it with HDRP package version 7.1.1 or higher. You can not use this Project for any production work. For more information about ray tracing in HDRP, see the [Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@latest/index.html?subfolder=/manual/Ray-Tracing-Getting-Started.html).
 
+Caution: The master branch of this project work with development verison of Unity, please use branch release/2019.3 for gettting a version that is compatible with Unity 2019.3
+
 Requirements:
 - NVIDIA RTX series card with the latest drivers [here](https://www.nvidia.com/Download/index.aspx?lang=com)
 - Windows 10 RS5 (Build 1809) or later
