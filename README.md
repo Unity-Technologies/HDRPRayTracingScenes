@@ -18,8 +18,8 @@ Please use branch
 - release/2019.3 for Unity 2019.3.6f1 or higher and HDRP 7.3.1 or higher
 
 # Requirements
-- NVIDIA RTX series card with the latest drivers [here](https://www.nvidia.com/Download/index.aspx?lang=com)
-- Windows 10 RS5 (Build 1809) or later
+NVIDIA RTX series card with the latest drivers [here](https://www.nvidia.com/Download/index.aspx?lang=com)
+Windows 10 RS5 (Build 1809) or later
 
 Ray tracing hardware acceleration is only available on certain graphics cards. The graphics cards with full support are:
 
