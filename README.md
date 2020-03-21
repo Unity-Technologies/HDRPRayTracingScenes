@@ -13,8 +13,6 @@ You can also download the Project zip, with every file (including the LFS files)
 This Project uses the real-time ray tracing feature released in preview in Unity. You can not use this Project for any production work. For more information about ray tracing in HDRP, see the [Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@latest/index.html?subfolder=/manual/Ray-Tracing-Getting-Started.html).
 
 Please use branch
-- master for internal Unity development - works with the development version of Unity
-- release/2020.1 for Unity 2020.1.b3 or higher and HDRP 8.0.1 or higher
 - release/2019.3 for Unity 2019.3.6f1 or higher and HDRP 7.3.1 or higher
 
 # Requirements
